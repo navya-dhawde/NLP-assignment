@@ -21,7 +21,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn nltk
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
    ```bash
-   git clone [Insert Link Here]
+   git clone https://github.com/navya-dhawde/NLP-assignment.git
    ```
 2. **Open Jupyter Notebook** Launch Jupyter Notebook in the project directory by entering the
    following command in you terminal:
@@ -33,3 +33,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn nltk
 
 4. **View Results:** After executing the cells, you can view the performance metrics and visualizations generated within
    the notebooks.
+
+## Conclusion
+
+This project demonstrates the effectiveness of SVMs for binary sentiment classification using TF-IDF feature extraction. While the classifier performs well, there are opportunities to further improve performance by enhancing feature engineering and tuning the model with more advanced techniques.
