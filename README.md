@@ -1,4 +1,4 @@
-# Movie Review Polarity Classifier
+# NLP Assignment - Movie Review Polarity Classifier
 
 ## Overview
 This project implements a polarity classifier for movie reviews using Support Vector Machine (SVM) techniques. The classifier is trained on the Cornell Movie Review Dataset to categorize reviews as either positive or negative sentiments.
